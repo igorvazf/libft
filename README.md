@@ -64,4 +64,4 @@ make clean
 | ft_lstsize      | retorna o tamanho da lista |
 
 
-#### More about School 42 you can find here: https://en.wikipedia.org/wiki/42_(school)
+#### Mais informações sobre a Escola 42 (inglês): https://en.wikipedia.org/wiki/42_(school)
